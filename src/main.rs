@@ -13,7 +13,7 @@ fn main() {
         .arg(clap::Arg::with_name("all")
              .takes_value(false)
              .short("a")
-             .long("--")
+             .long("all")
              .help("Include hidden directories and files"));
 
     let matches = app.get_matches();
