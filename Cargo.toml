@@ -1,0 +1,8 @@
+[package]
+name = "globtest"
+version = "0.1.0"
+authors = ["Mahmoud Al-Qudsi <mqudsi@neosmart.net>"]
+
+[dependencies]
+clap = "2.25.0"
+glob = "0.2.11"
