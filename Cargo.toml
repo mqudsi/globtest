@@ -1,6 +1,6 @@
 [package]
 name = "globtest"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Mahmoud Al-Qudsi <mqudsi@neosmart.net>"]
 description = "Test expressions against the glob library."
 homepage = "https://github.com/neosmart/globtest"
@@ -11,5 +11,5 @@ categories = ["command-line-interface", "command-line-utilities", "development-t
 license = "MIT"
 
 [dependencies]
-clap = "2.25.0"
-glob = "0.2.11"
+clap = "2.31"
+glob = "0.2"
